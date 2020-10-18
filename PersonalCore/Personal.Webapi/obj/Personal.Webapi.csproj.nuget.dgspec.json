@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Solution\\PersonalCore\\Personal.Webapi\\Personal.Webapi.csproj": {}
+    "F:\\Solution\\personal\\PersonalCore\\Personal.Webapi\\Personal.Webapi.csproj": {}
   },
   "projects": {
-    "F:\\Solution\\PersonalCore\\Personal.Webapi\\Personal.Webapi.csproj": {
+    "F:\\Solution\\personal\\PersonalCore\\Personal.Webapi\\Personal.Webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Solution\\PersonalCore\\Personal.Webapi\\Personal.Webapi.csproj",
+        "projectUniqueName": "F:\\Solution\\personal\\PersonalCore\\Personal.Webapi\\Personal.Webapi.csproj",
         "projectName": "Personal.Webapi",
-        "projectPath": "F:\\Solution\\PersonalCore\\Personal.Webapi\\Personal.Webapi.csproj",
+        "projectPath": "F:\\Solution\\personal\\PersonalCore\\Personal.Webapi\\Personal.Webapi.csproj",
         "packagesPath": "C:\\Users\\万丈\\.nuget\\packages\\",
-        "outputPath": "F:\\Solution\\PersonalCore\\Personal.Webapi\\obj\\",
+        "outputPath": "F:\\Solution\\personal\\PersonalCore\\Personal.Webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -25,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nrm.recloud.com.cn:8081/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -91,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
